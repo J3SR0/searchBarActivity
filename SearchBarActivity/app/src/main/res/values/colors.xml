@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="winBackground">#e1e1e1</color>
+    <color name="background">#7e7e7e</color>
+    <color name="searchBarTextColor">#1a1a1a</color>
+
+    <color name="widgetBackground">#FFFFFF</color>
+    <color name="widgetTitleTextColor">#4e4d4d</color>
+
+
+    <color name="widgetContactsBackGround">#FFFFFF</color>
+    <color name="widgetContactsDividerColor">#c2c1c1</color>
+</resources>
